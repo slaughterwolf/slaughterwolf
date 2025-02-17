@@ -1,6 +1,7 @@
-hai my names wolf 
+hi my names wolf 
 
 ![image](https://i.pinimg.com/1200x/69/25/4e/69254eee4b803841e37f0dd458ecc70b.jpg)
+[link](https://spacehey.com/wolfcorpse) 
 
 <!--
 **slaughterwolf/slaughterwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
