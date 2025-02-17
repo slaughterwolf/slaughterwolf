@@ -1,4 +1,6 @@
-## Hi there 👋
+hai my names wolf 
+
+![image](https://i.pinimg.com/1200x/69/25/4e/69254eee4b803841e37f0dd458ecc70b.jpg)
 
 <!--
 **slaughterwolf/slaughterwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
