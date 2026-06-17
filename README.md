@@ -1,7 +1,7 @@
 hi my names wolf 
 
 ![image](https://i.pinimg.com/1200x/69/25/4e/69254eee4b803841e37f0dd458ecc70b.jpg)
-
+![image]([https://i.pinimg.com/1200x/69/25/4e/69254eee4b803841e37f0dd458ecc70b.jpg](https://media.discordapp.net/attachments/1511563300352295058/1516772861447114772/image.png?ex=6a33dc4e&is=6a328ace&hm=0cf5a513930ab7978db5e3bc225a2776fd5b95e6ce675bd9f8b5918b0e429798&=&format=webp&quality=lossless&width=1400&height=887))
 
 <!--
 **slaughterwolf/slaughterwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
