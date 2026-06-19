@@ -2,7 +2,10 @@ hi my names wolf
 
 ![image](https://i.pinimg.com/1200x/69/25/4e/69254eee4b803841e37f0dd458ecc70b.jpg)
 
+![](https://komarev.com/ghpvc/?username=slaughterwolf&label=twins&color=ffffff)
+put like put a hex on the color=
 
+https://github.com/kittinan/spotify-github-profile.git
 <!--
 **slaughterwolf/slaughterwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
