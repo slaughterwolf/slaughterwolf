@@ -2,7 +2,7 @@
 
 
 
-![image](https://i.pinimg.com/736x/80/4f/4c/804f4c5472a490d000cb41a55dfa5cc9.jpg)
+![image](https://i.pinimg.com/originals/35/82/bd/3582bd97cff0e88ab6e6d6db29c4757b.gif)
 
 hi my names wolf 
 
