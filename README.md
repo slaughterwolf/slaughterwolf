@@ -3,6 +3,7 @@
 
 
 ![image](https://i.pinimg.com/originals/35/82/bd/3582bd97cff0e88ab6e6d6db29c4757b.gif)
+LMFAOOOOOO
 
 hi my names wolf 
 
