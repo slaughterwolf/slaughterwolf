@@ -3,7 +3,7 @@ hi my names wolf
 
 <p align="center"><img width="700" src="https://64.media.tumblr.com/7b87aa3094266384a3147a1e33386aec/bd58656c63eaeb15-cf/s400x600/c5b3328483521998fb8ad4a7d6e6091ae7d8b16e.gif" alt="description" /></p>
 
-![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=ffffff)
+![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=0c8fb3)
 
 
 
