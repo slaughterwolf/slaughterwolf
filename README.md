@@ -5,6 +5,8 @@ hi my names wolf
 
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=ffffff)
 
+<p align="center"><img width="700" src="https://studioheartbreak.com/cdn/shop/t/14/assets/shb-home-hero-art.webp?v=16597576221000463961788203547" alt="description" /></p>
+
 
 
 <!--
