@@ -2,7 +2,7 @@
 hi my names wolf 
 
 <p align="center"><img width="100" src="https://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" />
-" alt="description" /></p>
+" /></p>
 
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=006a87)
 
