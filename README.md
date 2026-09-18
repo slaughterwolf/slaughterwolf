@@ -1,7 +1,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4d4xf8vl2k2ryj1qs0dr5nn7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 hi my names wolf 
 
-<p align="center"><img width="700" src="https://64.media.tumblr.com/556a88792e487830b97b1853b52f1455/a6f8a6f170bd059c-dd/s400x600/e04551fcd9a8f3fd48fdfaf8b22e92261723136d.gif" />
+<p align="center"><img width="600" src="https://64.media.tumblr.com/556a88792e487830b97b1853b52f1455/a6f8a6f170bd059c-dd/s400x600/e04551fcd9a8f3fd48fdfaf8b22e92261723136d.gif" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=006a87)
