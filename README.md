@@ -6,7 +6,7 @@ hi my names wolf
 
 <sub>@fadyatheautist</sub> 
 ㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=#fffff)
+![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=e8e9eb)
 
 
 
