@@ -4,7 +4,8 @@ hi my names wolf
 <p align="center"><img width="500" src="https://64.media.tumblr.com/556a88792e487830b97b1853b52f1455/a6f8a6f170bd059c-dd/s400x600/e04551fcd9a8f3fd48fdfaf8b22e92261723136d.gif" />
 </p>
 
-<sub>@fadyatheautist</sub> ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=006a87)
+<sub>@fadyatheautist</sub> 
+![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=006a87)
 
 
 
