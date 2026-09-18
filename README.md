@@ -1,7 +1,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4d4xf8vl2k2ryj1qs0dr5nn7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 hi my names wolf 
 
-<p align="center"><img width="100" src="https://64.media.tumblr.com/193916b73b389f0210faf7b6a2577296/7c4e7e9663a6280a-a9/s400x600/f784b4e6d2e1ee79b91f7e301bf302dbec198b5e.gif" />
+<p align="center"><img width="100" src="https://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" />
 " alt="description" /></p>
 
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=006a87)
