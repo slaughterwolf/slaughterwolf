@@ -1,7 +1,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4d4xf8vl2k2ryj1qs0dr5nn7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 hi my names wolf 
 
-<p align="center"><img width="500" src="https://64.media.tumblr.com/556a88792e487830b97b1853b52f1455/a6f8a6f170bd059c-dd/s400x600/e04551fcd9a8f3fd48fdfaf8b22e92261723136d.gif" />
+<p align="center"><img width="500" src="https://media.discordapp.net/attachments/582066542083178508/1553170705401778276/C7560B15-79C9-44EF-A94D-61E5835B4D5B.jpg?ex=6ab84670&is=6ab6f4f0&hm=8f9b36d26a5a1a15af4ca9874fdbc2fc40db685147350a327d20f4fd3386a8ff&=&format=webp&width=1024&height=853" />
 </p>
 
 <sub>@fadyatheautist</sub> 
