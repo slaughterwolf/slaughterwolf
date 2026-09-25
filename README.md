@@ -3,7 +3,8 @@ hi my names wolf
 
 <p align="center"><img width="500" src="https://media.discordapp.net/attachments/582066542083178508/1553170705401778276/C7560B15-79C9-44EF-A94D-61E5835B4D5B.jpg?ex=6ab84670&is=6ab6f4f0&hm=8f9b36d26a5a1a15af4ca9874fdbc2fc40db685147350a327d20f4fd3386a8ff&=&format=webp&width=1024&height=853" />
 </p>
-ㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+
+ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=e8e9eb)
 
 
