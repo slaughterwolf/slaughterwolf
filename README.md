@@ -6,7 +6,7 @@
 ㅤㅤㅤㅤㅤ
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-![](https://komarev.com/ghpvc/?username=slaughterwolf&label=mama&color=e8e9eb)
+![](https://komarev.com/ghpvc/?username=slaughterwolf&label=hi&color=e8e9eb)
 
 
 
