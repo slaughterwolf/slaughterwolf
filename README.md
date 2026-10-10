@@ -2,8 +2,6 @@
 </p>
 
 ㅤㅤㅤㅤㅤ
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=hi&color=e8e9eb)
 
 
