@@ -1,7 +1,8 @@
 <p align="center"><img width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3JXJwCDBUKdF6T-xmxwbP2aRbepXqF44QbMGzJn9vfANbwHhBUJV6vNw&s=10" />
 </p>
 
-ㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=hi&color=e8e9eb)
+![](https://komarev.com/ghpvc/?username=slaughterwolf&label=hi&color=e8e9eb)
+
 
 
 
