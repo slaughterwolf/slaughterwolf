@@ -2,7 +2,7 @@
 </p>
 
 
-<p align="center" [ata](https://wolfcorpse.atabook.org/) [interests](https://spacehey.com/wolfcorpse)</p>
+<p align= [ata](https://wolfcorpse.atabook.org/) [interests](https://spacehey.com/wolfcorpse)</p>
 
 
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=hi&color=e8e9eb)
