@@ -1,7 +1,7 @@
 <p align="center"><img width="300" src="https://media.tenor.com/CiZhLhySiQ8AAAAM/ryan-patel-trevor-carmicheal.gif" />
 </p>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<p align="center">[ata](https://wolfcorpse.atabook.org/) [interests](https://spacehey.com/wolfcorpse)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<p align="center">[ata](https://wolfcorpse.atabook.org/) [interests](https://spacehey.com/wolfcorpse) [kuro](kuro.rip/pervert)
 
 
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=hi&color=e8e9eb)
