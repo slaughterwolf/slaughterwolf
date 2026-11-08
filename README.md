@@ -1,4 +1,4 @@
-<p align="center"><img width="300" src="https://64.media.tumblr.com/d39b18043f3c948834e77087407f86d6/3de6661729495b26-d2/s400x600/d83768c1d102fcb829a63ecd1ed6b399b606c9f8.gif" />
+<p align="center"><img width="300" src="https://i.pinimg.com/736x/15/81/73/158173827e1afe523f4ce2db43a208cc.jpg" />
 </p>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<p align="center">[ata](https://wolfcorpse.atabook.org/) [interests](https://spacehey.com/wolfcorpse) [kuro](https://kuro.rip/pervert)
